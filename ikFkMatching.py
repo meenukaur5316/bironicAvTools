@@ -1,7 +1,9 @@
 '''
     MODULE: MatchingIkFk
 
-    AUTHOR: Veronica Tello 7/21/2017
+    AUTHOR: Veronica Tello
+
+    DATE: 7/21/2017
 
     VERSION: 1.3
 
