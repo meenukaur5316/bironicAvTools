@@ -1,4 +1,5 @@
-The two scripts are ikFKMatching and GlobalPositioning
+ikFKMatching and GlobalPositioning Tools
+by Veronica Tello (https://www.linkedin.com/in/vtello/)
 
 *ikFkMatching* allows the animator to match ik and fk controls.
 After selecting the limb's ikfk_switch control,
